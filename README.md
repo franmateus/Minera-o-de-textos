@@ -1,2 +1,2 @@
-# Mineração-de-textos
-Uso de algoritmos de mineração de textos para criação de wordcloud, pares de palavras, classificação binária e escore de sentimentos sobre a narrativa de viagem "The Amateur Emigrant", de Robert Louis Stevenson, publicado pela Cinetour Publishing.
+# Mineração de textos
+Criação de wordcloud, pares de palavras, classificação binária e escore de sentimentos sobre as narrativas "The Great Gatsby", de F. Scott Fitzgerald, e "The Sun Also Rises", de Ernest Hemingway".
